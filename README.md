@@ -1,6 +1,6 @@
 # Exchange_Rate_Prediciton
 Overview
-This project provides a clean, end-to-end pipeline for forecasting exchange rates using historical data. It demonstrates data cleaning, feature engineering, model training with XGBoost, evaluation, and visualization of results — all designed for time series data like currency exchange rates.
+This project provides a clean, end-to-end pipeline for forecasting exchange rates using historical data. It demonstrates data cleaning, feature engineering, model training with XGBoost, evaluation, and visualization of results ,all designed for time series data like currency exchange rates.
 
 Features
 Data Preparation:
